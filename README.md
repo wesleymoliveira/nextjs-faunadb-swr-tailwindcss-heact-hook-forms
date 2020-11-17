@@ -1,5 +1,13 @@
 NEXTJS, Tailwind CSS, SWR, React Hook Form, and FaunaDB!
 
+## It's look like....
+
+![Home](https://github.com/wesleymoliveira/nextjs-faunadb-swr-tailwindcss-heact-hook-forms/blob/main/images/home.png)
+
+![Create](https://github.com/wesleymoliveira/nextjs-faunadb-swr-tailwindcss-heact-hook-forms/blob/main/images/create%20Snippet.png)
+
+![Show](https://github.com/wesleymoliveira/nextjs-faunadb-swr-tailwindcss-heact-hook-forms/blob/main/images/Show.png)
+
 ## Getting Started
 
 1. [Sign up for a free account at FaunaDB](http://bit.ly/jqqfauna).
@@ -10,10 +18,6 @@ NEXTJS, Tailwind CSS, SWR, React Hook Form, and FaunaDB!
 
 4. Run the development server:
 
-```bash
-npm run dev
-# or
 yarn dev
-```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
